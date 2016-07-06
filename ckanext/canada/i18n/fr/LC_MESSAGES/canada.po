@@ -135,6 +135,9 @@ msgstr "Aucun filtre sélectionné pour cette recherche"
 msgid "Search..."
 msgstr "Recherche..."
 
+msgid "Search Datasets"
+msgstr "Rechercher les documents"
+
 msgid "Go"
 msgstr "Allez"
 
@@ -155,7 +158,7 @@ msgstr "0 ensemble de données trouvé"
 msgid "{number} dataset found"
 msgid_plural "{number} datasets found"
 msgstr[0] "{number} jeu de données trouvé"
-msgstr[1] "{number} jeux de données trouvés"
+msgstr[1] "{number} documents trouvés"
 
 msgid "Sorry no datasets found"
 msgstr "0 ensembles de données trouvés"
@@ -320,7 +323,7 @@ msgid "Search open data"
 msgstr "Chercher dans les données ouvertes"
 
 msgid "Search Open Information"
-msgstr "Chercher dans les information ouvertes"
+msgstr "Rechercher de l'information ouverte"
 
 msgid "Subject"
 msgstr "Sujet"
@@ -567,8 +570,14 @@ msgstr "Blogue"
 msgid "Suggest a Dataset"
 msgstr "Proposez un jeu de données"
 
+msgid "Suggest Open Information"
+msgstr "Proposer de l'information ouverte"
+
 msgid "/en/suggested-datasets"
 msgstr "/fr/jeux-de-donnees-suggeres"
+
+msgid "/en/suggest-open-information"
+msgstr "/fr/proposer-de-linformation-ouverte"
 
 msgid "Submit Your App"
 msgstr "Informez-nous de votre application"
@@ -1115,7 +1124,7 @@ msgid "Reset password"
 msgstr "Vous avez oublié votre mot de passe?"
 
 msgid "Open Information Portal"
-msgstr "Registre pour les information ouverte"
+msgstr "Portail d’information ouverte"
 
 msgid "{number} asset found"
 msgid_plural "{number} assets found"
