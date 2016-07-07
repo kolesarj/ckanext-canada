@@ -280,9 +280,6 @@ msgstr "Utilisez notre formulaire de récupération de mot de passe pour rétabl
 msgid "Search Data"
 msgstr "Recherche de données"
 
-msgid "Search Datasets"
-msgstr "Recherche de données"
-
 msgid "Search Open Maps"
 msgstr "Recherche de cartes ouvertes"
 
